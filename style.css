@@ -1,0 +1,277 @@
+/* первая часть */
+
+.global-1_1{
+    width: 100%;
+    height: 600px;
+    background-color: #EEEFF1;
+}
+.logo-1{
+    position: absolute;
+    top: 5%;
+    left: 15%;
+}
+.imeg-loptap{
+    position: absolute;
+    left: 20%;
+    top: 30%;
+}
+.loptap{
+  width: 250px;
+}
+.button-1_1{
+    position: absolute;
+    top: 7%;
+    left: 45%;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+}
+.norm_buton{
+    font-size: 15px;
+    text-decoration: none;
+    color:#000000;
+    font-family: 'Roboto', sans-serif;
+}
+.norm_buton:hover{
+    color: rgb(0, 162, 255);
+}
+.norm_buton_us{
+    color:#34547A ;
+    font-size: 15px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+.norm_buton_us:hover{
+ color: rgb(0, 162, 255);
+}
+.mini_global{
+    position: absolute;
+    left: 47%;
+    top: 25%;
+}
+.in_mini-global{
+    font-size: 16px;
+    text-decoration: none;
+    padding: 15px 40px;
+    background-color:#34547A ;
+    color: white;
+}
+.in_mini-global:hover{
+    background-color:#34537a79 ;
+}
+.text-1{
+    color: #727272;
+}
+/* первая часть */
+.obo_mne{
+    position: relative;
+    text-align: center ;
+    top: 40px;
+    height: 250px;
+}
+.texs-2{
+    color:#727272;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.books{
+    position: relative;
+    background-color: #34547A;
+    width: 100%;
+    height: 300px;
+    top: 30%;
+}
+.razmer_kartinu{
+    width: 150px;
+}
+.book-1{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    top: 40%;
+    left: 10%;
+}
+.liniy{
+    height: 3px;
+    background-color: blue;
+    width: 250px;
+}
+.vnutre_diva{
+    border: 3px ;
+    width: 350px;
+    background-color: #727272;
+}
+.About{
+    color:#727272;
+}
+.img_men{
+    width: 300px;
+}
+.pro_sebay{
+    position: relative;
+    left: 18%;
+    top: 100px;
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+}
+.global_3{
+    background-color: rgb(209, 206, 209);
+    height: 500px;
+    width: 100%;
+}
+.text_4_4{
+    text-align: center;
+}
+.razmer_img{
+    width: 1000px;
+}
+.imeg_img{
+    width: 300px;
+}
+.win{
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+    position: relative;
+    left: 10%;
+    
+
+}
+.win_img{
+    width: 150px;
+    margin: 15px 50px;
+}
+.text_5_5{
+    text-align: center;
+}
+.inkludess{
+  justify-content: space-between;
+  display: flex;
+  position: relative;
+  left: 31%;
+  width: 460px;
+}
+.info{
+    background-color: #ebebeb;
+    color: rgb(39, 39, 39);
+    padding: 12px 20px;
+    /* border: #727272; */
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.info:active{
+    border: 2px solid #ffffff;
+}
+
+.soobshenie:active{
+    border: 2px solid #ffffff;
+}
+.soobshenie{
+    width: 440px;
+    padding: 12px ;
+
+}
+.soobshenea-1-1{
+    position: relative;
+    top: 30px;
+    left: 31%;
+    width: 100px;
+}
+.knopka_na_posledok{
+    position: relative;
+    top: 100px;
+    left: 44%;
+    width: 100px;
+}
+.kok{
+     position: relative;
+    height: 150px;
+    width: 100%;
+    background-color: #34547A;
+}
+.eki_nadpiss{
+    position: absolute;
+    top: 10%;
+    left: 15%;
+}
+.imeges_6_6{
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    display: flex;
+    justify-content: space-between;
+    width: 200px;
+}
+.belui{
+    color: white;
+}
+.container {
+    position: relative;
+    width: 300px;
+    margin: 3px;
+  }
+  
+  .image {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  .container:hover .middle {
+    opacity: 1;
+  }
+  .global_1{
+      display: flex;
+  }
+  .global_2{
+      display: flex;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
